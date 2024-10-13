@@ -34,5 +34,11 @@ fun main(){
     val booleanValue: Boolean = true
     println("Boolean: $booleanValue")
 
+    //string
+    var stringValue: String = "Hello, Android"
+    println("String: $stringValue")
+
+    stringValue = "Hello, Kotlin"
+    println("String: $stringValue")
 
 }
