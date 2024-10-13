@@ -35,3 +35,6 @@ fun nullSafety(){
 
 }
 
+fun main(){
+    nullSafety()
+}
