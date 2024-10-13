@@ -22,5 +22,23 @@ fun main(){
     val floatValue: Float = 50.6f
     println("Float: $floatValue")
 
+    //double
+    val doubleValue: Double = 60.6
+    println("Double: $doubleValue")
+
+    //char
+    val charValue: Char = 'A'
+    println("Char: $charValue")
+
+    //boolean
+    val booleanValue: Boolean = true
+    println("Boolean: $booleanValue")
+
+    //string
+    var stringValue: String = "Hello, Android"
+    println("String: $stringValue")
+
+    stringValue = "Hello, Kotlin"
+    println("String: $stringValue")
 
 }
