@@ -5,6 +5,7 @@ package com.example.basickotlin
 // Lambda function biasanya digunakan untuk membuat fungsi sederhana
 // Lambda function menggunakan tanda panah (->) untuk memisahkan paramater dan body fungsi
 
+
 fun uppercaseString(string: String): String{
     return string.uppercase()
 }
