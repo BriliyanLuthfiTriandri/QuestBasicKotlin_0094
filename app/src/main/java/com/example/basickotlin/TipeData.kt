@@ -14,5 +14,10 @@ fun main(){
     val intValue: Int = 30
     println("Int: $intValue")
 
+    //Long
+    val longValue: Long = 40
+    println("Long: $longValue")
+
+
 
 }
